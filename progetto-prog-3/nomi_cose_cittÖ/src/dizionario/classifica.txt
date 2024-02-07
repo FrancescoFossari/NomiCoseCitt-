@@ -1,0 +1,17 @@
+antonio 0
+tonia 285
+francesco 100
+chiara 95
+luca 450
+michele 35
+ginevra 110
+alessia 295
+nicola 55
+marco 300
+nicla 55
+maria 45
+Gianni 15
+Marco 335
+null 25
+fio 15
+Francesco 20

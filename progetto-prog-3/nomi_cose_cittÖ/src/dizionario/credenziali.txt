@@ -1,0 +1,54 @@
+admin
+pass
+
+francesco
+helloworld
+francescofossari@outlook.com
+Genere: Maschio
+
+Marco
+fio
+marcopisacane
+Genere: Maschio
+
+Simone
+Palladino
+simoPallaDinosauro@gmail.com
+Genere: Altro
+
+
+gio
+rana
+rana@gmail.com
+Genere: Maschio
+
+killua
+kill
+killua23@gmail.com
+Genere: Maschio
+
+Giulio
+Regeni
+ghijikolp
+Genere: Maschio
+
+Michele
+Misseri
+ooooooooo
+Genere: Altro
+
+Giorgio
+Nocerino
+eeeeeeeee
+Genere: Femmina
+
+giooo
+venezianico
+edfedfe
+Genere: Maschio
+
+Gianni
+uso
+mail
+Genere: Maschio
+

@@ -1,0 +1,158 @@
+amsterdam
+atene
+atlanta
+auckland
+austin
+bangkok
+barcellona
+berlino
+birmingham
+bogotà
+boston
+bratislava
+bruxelles
+bucarest
+buenos aires
+cairo
+calgary
+cancun
+chicago
+città del messico
+colonia
+copenaghen
+dallas
+detroit
+doha
+dubai
+dublino
+edimburgo 
+essen
+edmonton
+eindhoven
+eilat
+erfurt
+erie
+eugene
+ensenada 
+francoforte 
+firenze
+fukuoka
+filadelfia 
+fès
+fortaleza
+faro
+fresno
+friburgo
+flagstaff
+florianópolis
+faisalabad 
+ginevra
+glasgow
+genova
+guadalajara
+ghent
+graz
+goa
+georgetown
+granada
+goteborg
+guayaquil
+istanbul
+islamabad
+incheon
+indianapolis
+irvine
+inverness
+iquitos
+irkutsk
+izmir
+islamabad
+iligan
+indore 
+lisbona
+liverpool
+londra
+los angeles
+madrid
+malaga
+manchester
+manila
+marsiglia
+medellin
+melbourne
+memphis
+miami
+milano
+minneapolis
+monaco
+monterrey
+montevideo
+montreal
+mosca
+mumbai
+monaco
+nairobi
+napoli
+nashville
+new delhi
+new orleans
+new york
+nizza
+oslo
+ottawa
+panama city
+parigi
+perth
+philadelphia
+porto
+praga
+pretoria
+quito
+roma
+rio de janeiro
+reykjavik
+rotterdam
+rabat
+riga
+riyadh
+rochester
+recife
+regina
+rostov-on-Don
+riverside 
+san diego
+san francisco
+san jose
+san paolo
+santiago
+santo domingo
+seul
+shanghai
+singapore
+stoccolma
+sydney
+taipei
+tel aviv
+tijuana
+torino
+toronto
+toulouse
+ulaanbaatar
+uppsala
+utrecht
+uberlandia
+ulan-ude 
+vancouver
+varsavia
+vienna
+zurigo 
+zagabria 
+zamboanga
+zhangjiakou
+zanzibar City
+zaporizhzhia
+zaragoza
+zenica
+zhenjiang
+zibo
+zinder 
